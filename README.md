@@ -59,7 +59,7 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
   <a href="https://github.com/NWMohammad">
     <img src="https://img.shields.io/badge/GitHub-NWMohammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://discord.com/users/DISCORD_USER_ID">
+  <a href="https://discord.com/users/676616989858463746">
     <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
