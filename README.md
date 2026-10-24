@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/AminG82?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/AminG82?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/AminG82?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/AminG82?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/NWMohammad?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/NWMohammad?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/NWMohammad?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/NWMohammad?tab=repositories)
 
 </div>
 
@@ -56,8 +56,8 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/AminG82">
-    <img src="https://img.shields.io/badge/GitHub-AminG82-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/NWMohammad">
+    <img src="https://img.shields.io/badge/GitHub-NWMohammad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://discord.com/users/DISCORD_USER_ID">
     <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -84,9 +84,9 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AminG82&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad's GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NWMohammad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad's GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminG82&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWMohammad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 </div>
 
@@ -96,6 +96,6 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
 
 ### 🌐 Connecting Systems, Solving Problems, Learning Every Day.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AminG82&style=flat-square&color=5865F2&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NWMohammad&style=flat-square&color=5865F2&label=Profile+Views)
 
 </div>
