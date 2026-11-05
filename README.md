@@ -71,12 +71,10 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
 ## 🎮 Discord Presence
 
 <p align="center">
-  <a href="https://discord.com/users/DISCORD_USER_ID">
-    <img src="https://lanyard-profile-readme.vercel.app/api/DISCORD_USER_ID?theme=dark" alt="Discord Presence"/>
+  <a href="https://discord.com/users/676616989858463746">
+    <img src="https://lanyard-profile-readme.vercel.app/api/676616989858463746?theme=dark" alt="Discord Presence"/>
   </a>
 </p>
-
-<!-- Replace DISCORD_USER_ID with your numeric Discord user ID. -->
 
 ---
 
@@ -84,7 +82,7 @@ Hi! I'm **NWMohammad**, a networking enthusiast interested in network infrastruc
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NWMohammad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohammad's GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NWMohammad&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammad's GitHub Stats"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWMohammad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
